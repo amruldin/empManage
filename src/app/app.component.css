@@ -1,0 +1,10 @@
+#navBarBg{
+    background-color: rgb(5, 114, 5);
+    padding: 30px;
+    
+}
+
+a{
+    color:white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
